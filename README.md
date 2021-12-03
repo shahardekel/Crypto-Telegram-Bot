@@ -15,7 +15,7 @@ In this folder, there are 3 files:
 3. requests<br>
 4. cv2<br>
 5. cryptoaddress<br>
-
+<br>
 <h3>To run the bot, please follow these instructions:</h3>
 1. run the file main.py on your terminal<br>
 2. open this URL: https://t.me/is_it_crypto_bot <br>
