@@ -1,5 +1,5 @@
 # Crypto-Telegram-Bot
-A telegram bot, built with python, using APIs with various options to check the Bitcoin and Ethereum values and addresses.
+<h2>A telegram bot, built with python, using APIs with various options to check the Bitcoin and Ethereum values and addresses</h2>
 
 In this folder, there are 3 files:
 1. bot.py
