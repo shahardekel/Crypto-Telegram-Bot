@@ -25,5 +25,3 @@ This bot contains a menu with 6 options:
 4. Check My Ethereum Address- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.  
 5. I don't know what coin I'm using!- In case you do not know if it is a Bitcoin or Ethereum address. Requests to enter some address and returns the corresponding value in Bitcoin or Ethereum, otherwise returns an error message.
 6. Scan QR Code- Requests a photo of a QR code, if the code is a valid address (Bitcoin or Ethereum), returns its value, otherwise returns an error message
-
-![image](https://user-images.githubusercontent.com/69580046/144607962-72e40527-5e5f-4f64-b05f-e80e81e41647.png)
