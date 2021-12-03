@@ -20,8 +20,8 @@ In this folder, there are 3 files:
 <br><br>
 <h3>This bot contains a menu with 6 options:<br></h3>
 1. <b>Current Bitcoin currency</b>- returns the current Bitcoin mean value from the last 24 hours.<br>
-2. Current Ethereum currency- returns the current Ethereum mean value from the last 24 hours.<br>
-3. Check My Bitcoin Address- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.<br>  
-4. Check My Ethereum Address- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.<br>
-5. I don't know what coin I'm using!- In case you do not know if it is a Bitcoin or Ethereum address. Requests to enter some address and returns the corresponding value in Bitcoin or Ethereum, otherwise returns an error message.<br>
-6. Scan QR Code- Requests a photo of a QR code, if the code is a valid address (Bitcoin or Ethereum), returns its value, otherwise returns an error message
+2. <b>Current Ethereum currency</b>- returns the current Ethereum mean value from the last 24 hours.<br>
+3. <b>Check My Bitcoin Address</b>- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.<br>  
+4. <b>Check My Ethereum Address</b>- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.<br>
+5. <b>I don't know what coin I'm using!</b>- In case you do not know if it is a Bitcoin or Ethereum address. Requests to enter some address and returns the corresponding value in Bitcoin or Ethereum, otherwise returns an error message.<br>
+6. <b>Scan QR Code</b>- Requests a photo of a QR code, if the code is a valid address (Bitcoin or Ethereum), returns its value, otherwise returns an error message
