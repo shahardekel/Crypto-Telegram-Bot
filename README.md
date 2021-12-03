@@ -6,19 +6,19 @@ In this folder, there are 3 files:
 2. functions.py - utilities for bot functions
 3. main.py - run the bot
 
-Packages used:
-1. telegram
-2. telegram.ext
-3. requests
-4. cv2
-5. cryptoaddress
+<h3>Packages used:</h3><br>
+1. telegram<br>
+2. telegram.ext<br>
+3. requests<br>
+4. cv2<br>
+5. cryptoaddress<br>
 
 <h3>To run the bot, please follow these instructions:</h3>
 1. run the file main.py on your terminal<br>
 2. open this URL: https://t.me/is_it_crypto_bot <br>
 3. press /start
 <br><br>
-This bot contains a menu with 6 options:<br>
+<h3>This bot contains a menu with 6 options:<br></h3>
 1. <b>Current Bitcoin currency</b>- returns the current Bitcoin mean value from the last 24 hours.<br>
 2. Current Ethereum currency- returns the current Ethereum mean value from the last 24 hours.<br>
 3. Check My Bitcoin Address- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.<br>  
