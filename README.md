@@ -2,6 +2,7 @@
 <h2>A telegram bot, built with python, using APIs with various options to check the Bitcoin and Ethereum values and addresses</h2>
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-red.svg)](https://www.python.org/downloads/release/python-380/)
+[![Try it on telegram](https://img.shields.io/badge/try%20it-on%20telegram-0088cc.svg)](http://t.me/badgemakerbot)
 
 In this folder, there are 3 files:
 1. bot.py - build bot configurations and functionalities
