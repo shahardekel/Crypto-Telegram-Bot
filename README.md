@@ -14,8 +14,8 @@ Packages used:
 5. cryptoaddress
 
 <h3>To run the bot, please follow these instructions:</h3>
-1. run the file main.py on your terminal
-2. open this URL: https://t.me/is_it_crypto_bot 
+1. run the file main.py on your terminal<br>
+2. open this URL: https://t.me/is_it_crypto_bot <br>
 3. press /start
 
 This bot contains a menu with 6 options:
