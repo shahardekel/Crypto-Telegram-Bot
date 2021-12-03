@@ -13,7 +13,7 @@ Packages used:
 4. cv2
 5. cryptoaddress
 
-To run the bot, please follow these instructions:
+<h3>To run the bot, please follow these instructions:</h3>
 1. run the file main.py on your terminal
 2. open this URL: https://t.me/is_it_crypto_bot 
 3. press /start
