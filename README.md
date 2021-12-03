@@ -17,11 +17,11 @@ Packages used:
 1. run the file main.py on your terminal<br>
 2. open this URL: https://t.me/is_it_crypto_bot <br>
 3. press /start
-<br>
-This bot contains a menu with 6 options:
-1. <b>Current Bitcoin currency</b>- returns the current Bitcoin mean value from the last 24 hours.
-2. Current Ethereum currency- returns the current Ethereum mean value from the last 24 hours.
-3. Check My Bitcoin Address- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.  
-4. Check My Ethereum Address- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.  
-5. I don't know what coin I'm using!- In case you do not know if it is a Bitcoin or Ethereum address. Requests to enter some address and returns the corresponding value in Bitcoin or Ethereum, otherwise returns an error message.
+<br><br>
+This bot contains a menu with 6 options:<br>
+1. <b>Current Bitcoin currency</b>- returns the current Bitcoin mean value from the last 24 hours.<br>
+2. Current Ethereum currency- returns the current Ethereum mean value from the last 24 hours.<br>
+3. Check My Bitcoin Address- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.<br>  
+4. Check My Ethereum Address- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.<br>
+5. I don't know what coin I'm using!- In case you do not know if it is a Bitcoin or Ethereum address. Requests to enter some address and returns the corresponding value in Bitcoin or Ethereum, otherwise returns an error message.<br>
 6. Scan QR Code- Requests a photo of a QR code, if the code is a valid address (Bitcoin or Ethereum), returns its value, otherwise returns an error message
