@@ -17,9 +17,9 @@ Packages used:
 1. run the file main.py on your terminal<br>
 2. open this URL: https://t.me/is_it_crypto_bot <br>
 3. press /start
-
+<br>
 This bot contains a menu with 6 options:
-1. Current Bitcoin currency- returns the current Bitcoin mean value from the last 24 hours.
+1. <b>Current Bitcoin currency</b>- returns the current Bitcoin mean value from the last 24 hours.
 2. Current Ethereum currency- returns the current Ethereum mean value from the last 24 hours.
 3. Check My Bitcoin Address- asking for a Bitcoin address and return its balance in Satoshi and USD. If the address is not valid- returns an error massage.  
 4. Check My Ethereum Address- asking for a Ethereum address and returns its balance in ETH and USD. If the address is not valid- returns an error massage.  
